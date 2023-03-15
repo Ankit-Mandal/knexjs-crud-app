@@ -1,3 +1,7 @@
+----------------------------------------------------------------------------------------
+TUTORIAL URL: https://medium.com/@yasirahboyce/node-express-knex-postgresql-22e10daf0817
+----------------------------------------------------------------------------------------
+
 CREATE A FOLDER NAMED "db" inside the main project directory
 CREATE A FILE NAMED db.js inside the db folder
 
